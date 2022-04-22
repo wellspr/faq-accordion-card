@@ -49,9 +49,14 @@ Users should be able to:
 
 ### What I learned
 
+In this project I learned about the `details` and the `summary` tags. With these two tags It is possible to create a dropdown without using javascript.
+
+Also, I found very instructive trying to align and position the background images.
+
 
 ### Useful resources
 
+[https://www.w3schools.com/tags/tag_details.asp](https://www.w3schools.com/tags/tag_details.asp) - This is a tutorial on the details and summary tags. 
 <!-- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept. -->
 
