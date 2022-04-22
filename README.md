@@ -26,7 +26,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/desktop.png)
 ![](./screenshots/mobile.png)
@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-html-css-with-flexbox-SkpQNdgS5](https://www.frontendmentor.io/solutions/faq-accordion-card-html-css-with-flexbox-SkpQNdgS5)
 - Live Site URL: [https://faq-accordion-card-wellspr.vercel.app](https://faq-accordion-card-wellspr.vercel.app)
 
 ## My process
